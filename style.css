@@ -500,6 +500,7 @@ fieldset button {
   color: #fff;
   border: none;
   font-size: 18px;
+  font-weight: bold;
   background: #fe3945;
   margin-bottom: 20px;
   cursor: pointer;
