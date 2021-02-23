@@ -452,7 +452,8 @@ fieldset h1 {
   justify-content: space-between;
   flex-wrap: wrap;
 }
-.contact_form input[type="text"] {
+.contact_form input {
+  font-family: "Work Sans", sans-serif;
   height: 60px;
   flex-basis: 49%;
   background-color: #f4fafe;
@@ -463,13 +464,14 @@ fieldset h1 {
   padding: 20px;
   box-sizing: border-box;
 }
-.contact_form input[type="text"]::placeholder {
+.contact_form input::placeholder {
   font-family: "Work Sans", sans-serif;
   font-size: 18px;
   color: #314584;
   font-weight: bold;
 }
 .contact_form textarea {
+  font-family: "Work Sans", sans-serif;
   margin-top: 40px;
   height: 125px;
   flex-basis: 100%;
