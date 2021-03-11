@@ -564,4 +564,5 @@ footer .social_icons {
 }
 footer .social_icons > div {
   margin: 0px 40px;
+  display: flex;
 }
